@@ -3,8 +3,8 @@ body {
 }
 
 img {
+	display: block;
 	width: 800px;
-	border-width: 5px;
-	border-color: white;
-	text-align: center;
+	border: 7px solid #fff;
+
 }
