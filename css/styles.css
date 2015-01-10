@@ -1,7 +1,10 @@
 body {
-	background: rgb(0, 255, 207);
+	background: rgb(0, 33, 70);
 }
 
 img {
 	width: 800px;
+	border-width: 5px;
+	border-color: white;
+	text-align: center;
 }
