@@ -12,3 +12,11 @@ img {
 div {
 	text-align: center;
 }
+
+h1 {
+	color: white;
+  	font-family: 'Alex Brush', cursive;
+ 	text-align: center;
+ 	font-size: 55px;
+ 	margin-bottom: 20px;
+ }
